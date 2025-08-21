@@ -33,7 +33,7 @@ Examples of topics and questions from previous meetings:
 
 In 2019, Tamsin set up the Digital Accessibility Discussion Group, bringing together accessibility champions in Wellington. The group has been meeting once a month, around a table with a little wine and food, ever since.
 
-Tamsin works at the World Wide Web Consortium ([W3C](https://www.w3.org/)) in the Web Accessibility Initiative (WAI) team.
+Tamsin works at World Wide Web Consortium ([W3C](https://www.w3.org/)) in the Web Accessibility Initiative (WAI) team.
 
 Prior to joining W3C, Tamsin worked as a content designer and digital accessibility specialist in the New Zealand public sector.
 
