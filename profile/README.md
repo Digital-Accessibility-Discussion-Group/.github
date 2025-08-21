@@ -10,9 +10,11 @@ We meet to discuss ways to improve digital accessibility in our organisations.
 - **Venue:** In-person only at Rutherford House, 33 Bunny St, VUW – Pipitea Campus
 - **Cost:** Free
 
-[Register to attend](https://wellingtonuni-professional.nz/course/digital-accessibility-discussion-group/)
+[**Register to attend**](https://wellingtonuni-professional.nz/course/digital-accessibility-discussion-group/)
 
 Group members are made up of writers, designers, developers and product owners, with a mix of more experienced accessibility practitioners, and people new to accessibility best practices.
+
+[**Session Resources wiki**](https://github.com/Digital-Accessibility-Discussion-Group/Session-resources/wiki/Session-Resources-wiki)
 
 ## Why we meet
 
@@ -30,6 +32,8 @@ Examples of topics and questions from previous meetings:
 ### Tamsin Ewing
 
 In 2019, Tamsin set up the Digital Accessibility Discussion Group, bringing together accessibility champions in Wellington. The group has been meeting once a month, around a table with a little wine and food, ever since.
+
+Tamsin works at the World Wide Web Consortium ([W3C](https://www.w3.org/)) in the Web Accessibility Initiative (WAI) team.
 
 Prior to joining W3C, Tamsin worked as a content designer and digital accessibility specialist in the New Zealand public sector.
 
