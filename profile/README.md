@@ -43,7 +43,7 @@ Prior to joining W3C, Tamsin worked as a content designer and digital accessibil
 
 ### Steve Barnett
 
-Steve Barnett is a human-centred front-end developer and user experience designer. He helps software teams have happier customers** by making **more user-friendly software.
+Steve Barnett is a human-centred front-end developer and user experience designer. He helps software teams have happier customers by making more user-friendly software.
 
 He's been building things for the web professionally since 2005 (and built things for fun for a while before that). In January 2020 he moved to Wellington in New Zealand and in April 2024 he started at [Intopia](https://intopia.digital/) as a Digital Accessibility Consultant.
 
