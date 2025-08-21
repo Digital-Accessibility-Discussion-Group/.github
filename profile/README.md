@@ -25,3 +25,22 @@ Examples of topics and questions from previous meetings:
 - How do I convince stakeholders about the value of accessibility work?
 - How does inaccessible content exclude people?
 
+## Facilitators
+
+### Tamsin Ewing
+
+In 2019, Tamsin set up the Digital Accessibility Discussion Group, bringing together accessibility champions in Wellington. The group has been meeting once a month, around a table with a little wine and food, ever since.
+
+Prior to joining W3C, Tamsin worked as a content designer and digital accessibility specialist in the New Zealand public sector.
+
+[Tamsin Ewing at W3C](https://www.w3.org/staff/#tamsin)
+
+[Tamsin Ewing on LinkedIn](https://www.linkedin.com/in/tamsinewing/) 
+
+### Steve Barnett
+
+Steve Barnett is a human-centred front-end developer and user experience designer. He helps software teams have happier customers** by making **more user-friendly software.
+
+He's been building things for the web professionally since 2005 (and built things for fun for a while before that). In January 2020 he moved to Wellington in New Zealand and in April 2024 he started at [Intopia](https://intopia.digital/) as a Digital Accessibility Consultant.
+
+[Steve Barnett on LinkedIn](https://www.linkedin.com/in/steve-barnett/)
